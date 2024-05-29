@@ -1,4 +1,3 @@
-// 2.Create a p5.js sketch
 function setup() {
   createCanvas(400, 400);
 }
